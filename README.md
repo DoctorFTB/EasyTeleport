@@ -1,0 +1,2 @@
+# EasyTeleport
+Teleports to dimensionals.
